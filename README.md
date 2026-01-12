@@ -30,14 +30,12 @@
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
+
 <td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=persi2711&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=persi2711&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-
-</td>
-
-
+  </td>
 </tr>
 </table>
 
